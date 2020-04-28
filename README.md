@@ -5,6 +5,9 @@ The purpose of this project is to learn ruby functionalities by using it framewo
 
 
 
+
+
+
 To get this application working locally
 
 git clone https://github.com/ndiki931/Sinatra_Application.git
